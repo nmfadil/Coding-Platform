@@ -1,4 +1,5 @@
 # Coding-Platform
 
-https://github.com/nmfadil/Coding-Platform/blob/34a6643b349db0f662f3999817257be324147dc4/RPG_Character/index.html
+[Lab 1: RPG Character](https://nmfadil.github.io/Coding-Platform/RPG_Character/index.html)
+[Lab 2: Number Pattern](https://nmfadil.github.io/Coding-Platform/NumberPattern/index.html)
 
